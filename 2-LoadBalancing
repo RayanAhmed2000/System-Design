@@ -1,0 +1,2 @@
+# Concept of consistent Hashing
+- Request number is passed through a hash function whihc generates a number (node/server number)
